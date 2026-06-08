@@ -119,18 +119,18 @@ Select [qiskit/pytket]: qiskit
 ────────────────────────────────────────────────────────────
    ! LISTEN HERE !
 
-  - if you choosed qiskit --> Next You Choose[ ibm ] in The Next Backends inputs.
-  - if you choosed pytket --> Next You Choose[ iqm ] in The Next Backends inputs.
+  - if you Choosed qiskit --> Next You Choose[ ibm ] in The Next Backends inputs.
+  - if you Choosed pytket --> Next You Choose[ iqm ] in The Next Backends inputs.
 
 
 Select [backend]: ibm  <── Write it   
 
 / or   Select [backend]: iqm <── Write it
 
+------------------------------------------------------------
 
 13 ) ) -  Number of runs (Regev needs d+4 independent samples) Choose [1]: 1  <──  (  Keep it 1  )
 
-------------------------------------------------------------
 
 ─>  PASTE YOUR ( IBM /IQM ) API TOKENs :
 
