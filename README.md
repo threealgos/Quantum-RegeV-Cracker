@@ -74,7 +74,7 @@ Select [adder] choose ---> : approx <── Choose
 
 ---
 
-Select [cat] Choose cat Write it & Press Entre  ---> : cat
+Select [cat] Choose [cat] Write it & Press Entre  ---> : cat
 
   Enable --> Clifford+T optimization? [Y/n]: Y <── Choose
   
