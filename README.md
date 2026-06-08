@@ -14,11 +14,12 @@ Here is All The Steps :
 python3 Quantum-RegeV-1920.py
 
 
-2 ) ) - For Costum Write --> c 
+2 ) ) - For Costum Write [c] -->  c  <── You Choose C for Any Bit-Lengh You Want to Unlock,
 
 3 ) ) - Paste compressed public key
 
 03 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 02 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 4 ) ) -input Your Target bit length & your exact Bit-lengh For example: 19 
@@ -30,25 +31,25 @@ This it is Just The Keyspace_Start of The Full Rang According to Your Bit-lengh 
 
 ────────────────────────────────────────────────────────────
 
-6 ) ) - Number of Shots For Accurate Result  Write : 16384 
+6 ) ) - Number of Shots For Accurate Result  Write : 16384  <── Choose
 
 
 7 ) ) - Choose SOLVER [1] Regev + IPE Hybrid (default — recommended)
-1-(Regev + IPE)
+1-(Regev + IPE) <── Choose
 
 
 8 ) ) - NOW CHOOSE EXACTLY THIS :
 
 ────────────────────────────────────────────────────────────
 
-  Disable --> HalfGCD modular inversion? [Y/n]: n
+  Disable --> HalfGCD modular inversion? [Y/n]: n <── Choose
   
-  Disable --> Measurement-based uncomputation (MBU)? [Y/n]: n
+  Disable --> Measurement-based uncomputation (MBU)? [Y/n]: n <── Choose 
 
-  Enable --> Fibonacci basis-point prep (Ragavan-VV)? [Y/n]: Y
+  Enable --> Fibonacci basis-point prep (Ragavan-VV)? [Y/n]: Y <── Choose
 
   ---> Noise-filter sigma (Ragavan-VV, 0=off) [2.0]: 2.0 
- ( Write 2.0 or Press Entre )
+ ( Write 2.0 or Press Entre ) <── Choose
 
 ────────────────────────────────────────────────────────────
 
@@ -56,11 +57,11 @@ This it is Just The Keyspace_Start of The Full Rang According to Your Bit-lengh 
 
 ────────────────────────────────────────────────────────────
 
-Select [adder] choose ---> : approx
+Select [adder] choose ---> : approx <── Choose
 
 (write approx & Press Entre)
 
-  Approx threshold [4] Choose: 4
+  Approx threshold [4] Choose: 4 
 
 ────────────────────────────────────────────────────────────
 
@@ -70,9 +71,9 @@ Select [adder] choose ---> : approx
 
 Select [cat] Choose cat Write it & Press Entre  ---> : cat
 
-  Enable --> Clifford+T optimization? [Y/n]: Y
+  Enable --> Clifford+T optimization? [Y/n]: Y <── Choose
   
-  Disable --> Enable flag qubits? [Y/n]: n
+  Disable --> Enable flag qubits? [Y/n]: n <── Choose
   
 ────────────────────────────────────────────────────────────
 
@@ -116,7 +117,7 @@ Select [qiskit/pytket]: qiskit
 
 Choose --->    Select [backend]: ibm     
 
-/ or   Select [backend]: iqm
+/ or   Select [backend]: iqm <── Choose
 
 
 13 ) ) -  Number of runs (Regev needs d+4 independent samples) Choose [1]: 1  <──  (  Keep it 1  )
