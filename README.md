@@ -51,13 +51,16 @@ k_start (hex) [auto]:  [Press Entre]
 ────────────────────────────────────────────────────────────
 
 9)  ADDER
+
 ────────────────────────────────────────────────────────────
+
 Select [adder] choose ---> : approx (write it & Press Entre)
   Approx threshold [4] Choose: 4
 
 ────────────────────────────────────────────────────────────
 
 10)  ERROR ENCODING  (Regev / Regev+IPE only)
+
 ────────────────────────────────────────────────────────────
   [none]       No encoding
   [repetition] [[3,1,1]] bit-flip code
@@ -70,9 +73,11 @@ Select [none] Choose cat Write it & Press Entre  ---> : cat
   Enable --> Clifford+T optimization? [Y/n]: Y
   
   Disable --> Enable flag qubits? [Y/n]: n
+  
 ────────────────────────────────────────────────────────────
 
 11)  SDK
+
 ────────────────────────────────────────────────────────────
   [qiskit]  Qiskit (default)
   [pytket]  pytket
@@ -83,7 +88,7 @@ Select [qiskit/pytket]: qiskit
 
 ──────────────────────────────────────────────────────────___──-------------
 
-12) BACKENDs: Best Machines Worked Fine (ibm/iqm) Don't Worry About WARNINGs 
+12) BACKENDs: Best Machines Worked Fine (ibm/iqm) Don't Worry About WARNINGs
 ──────────────────────────────────────────────────────────____──-----------
 
    Choose backend ---> 
