@@ -28,6 +28,7 @@ python3 Quantum-RegeV-1920.py
 k_start (hex) [auto]:  [Press Entre]
 
 ────────────────────────────────────────────────────────────
+
 6) Number of Shots For Accurate Result  Write : 16384 
 
 
@@ -36,6 +37,7 @@ k_start (hex) [auto]:  [Press Entre]
 
 
 8) NOW CHOOSE EXACTLY THIS :
+
 ────────────────────────────────────────────────────────────
 
   Disable --> HalfGCD modular inversion? [Y/n]: n
@@ -47,12 +49,14 @@ k_start (hex) [auto]:  [Press Entre]
  ( Write 2.0 or Press Entre )
 
 ────────────────────────────────────────────────────────────
+
 9)  ADDER
 ────────────────────────────────────────────────────────────
 Select [adder] choose ---> : approx (write it & Press Entre)
   Approx threshold [4] Choose: 4
 
 ────────────────────────────────────────────────────────────
+
 10)  ERROR ENCODING  (Regev / Regev+IPE only)
 ────────────────────────────────────────────────────────────
   [none]       No encoding
@@ -64,8 +68,10 @@ Select [adder] choose ---> : approx (write it & Press Entre)
 Select [none] Choose cat Write it & Press Entre  ---> : cat
 
   Enable --> Clifford+T optimization? [Y/n]: Y
+  
   Disable --> Enable flag qubits? [Y/n]: n
 ────────────────────────────────────────────────────────────
+
 11)  SDK
 ────────────────────────────────────────────────────────────
   [qiskit]  Qiskit (default)
@@ -76,6 +82,7 @@ Select [qiskit/pytket]: qiskit
 (JUSTWrite The One you want ) & press ENTER
 
 ──────────────────────────────────────────────────────────___──-------------
+
 12) BACKENDs: Best Machines Worked Fine (ibm/iqm) Don't Worry About WARNINGs 
 ──────────────────────────────────────────────────────────____──-----------
 
@@ -92,15 +99,22 @@ Select [qiskit/pytket]: qiskit
 Choose --->    Select [aer]: ibm    /   Select [aer]: iqm
 
 
-13)  Number of runs (Regev needs d+4 independent samples) Choose [1]: 1
+13)-  Number of runs (Regev needs d+4 independent samples) Choose [1]: 1
 
 PASTE YOUR ( IBM /IQM ) API TOKENS:
 
-FOR-IQM────────────────────────────────────────────────────────────
+FOR-IQM
+
+────────────────────────────────────────────────────────────
+
 IQM token: cL7Kp6KWbIOXdwMGLOWVRcqMRjdfW44RxXlWzo3o554BnqZ4oBh5Qrq2I0cBRTbD
 IQM device [garnet / sirius / emerald] Write it : emerald
 For IQM it is done Here.
-FOR-IBM────────────────────────────────────────────────────────────
+
+FOR-IBM
+
+────────────────────────────────────────────────────────────
+
 IBM token: XXH4dAkS6t9MZC6NGKtVGiOjGL6nO_vONBAnOab5pTTo
 IBM CRN [optional]: [Press Entre]
 Last StepFor IBM [Press Entre] to Pass IBM backend name [ibm_fez]: 
