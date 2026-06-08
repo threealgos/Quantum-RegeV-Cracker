@@ -107,8 +107,9 @@ Select [qiskit/pytket]: qiskit
 
   [aer]     Aer simulator   (  You Can Use it But No Need To Use The Aer Simulator  ) 
   aer it has only 18 qubits
+  
  So instead 
-  Choose Real Hardware ( ibm / iqm )  & Press Enter
+  Choose Real Hardware  Write ( ibm / iqm )  & Press Enter
   
   [ibm]     IBM Quantum
   
