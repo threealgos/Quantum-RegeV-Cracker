@@ -52,7 +52,7 @@ k_start (hex) [auto]:  [Press Entre]
 
 ────────────────────────────────────────────────────────────
 
-9 ) ) -  ADDER
+9 ) ) -  ADDER CHOOSE ( approx ) Write it & Press Enter
 
 ────────────────────────────────────────────────────────────
 
@@ -68,13 +68,7 @@ Select [adder] choose ---> : approx
 
 ────────────────────────────────────────────────────────────
 
-  [none]       No encoding
-  [repetition] [[3,1,1]] bit-flip code
-  [surface]    Surface-d3 patch (single round, decorative)
-  [cat]        Cat-qubit approximation
-  [dualrail]   Dual-rail erasure detection
-
-Select [none] Choose cat Write it & Press Entre  ---> : cat
+Select [cat] Choose cat Write it & Press Entre  ---> : cat
 
   Enable --> Clifford+T optimization? [Y/n]: Y
   
@@ -110,7 +104,8 @@ Select [qiskit/pytket]: qiskit
   - if you choosed qiskit --> Next Write[ ibm ] in The Next Backends inputs.
   - if you choosed pytket --> Next Write[ iqm ] in The Next Backends inputs.
 
-  [aer]     Aer simulator
+  [aer]     Aer simulator ( You Can Use it But 
+  No Need So Choose ( ibm / iqm ) & Press Enter
   [ibm]     IBM Quantum
   [iqm]     IQM Resonance (pytket-iqm: sirius/garnet/emerald)
 
