@@ -3934,7 +3934,7 @@ def interactive_menu() -> P11Config:
     print("  [draper]  Standard QFT-based (default)")
     print("  [approx]  Approximate Draper (fewer rotations, lower depth)")
     print("  [ripple]  Cuccaro ripple-carry (low T-depth, more ancillas)")
-    cfg.adder = input("Select [draper]: ").strip() or "draper"
+    cfg.adder = input("Select [approx]: ").strip() or "approx"
     if cfg.adder == "approx":
         cfg.approx_threshold = int(input("  Approx threshold [4]: ").strip() or "4")
 
@@ -3984,7 +3984,7 @@ def interactive_menu() -> P11Config:
     if IQM_OK:    print("  [iqm]     IQM Resonance (pytket-iqm: sirius/garnet/emerald)")
     if GUPPY_OK:  print("  [selene]  Quantinuum Selene (stabilizer)")
     if NEXUS_OK:  print("  [helios]  Quantinuum HELIOS (Q-Nexus)")
-    cfg.backend = input("Select [aer]: ").strip() or "aer"
+    cfg.backend = input("Select [backend]: ").strip() or "aer"
 
     # Runs: Shor needs only 1; Regev needs d+4
     if cfg.solver_mode == "shor":
