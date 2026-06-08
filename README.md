@@ -50,6 +50,8 @@ This it is Just The Keyspace_Start of The Full Rang According to Your Bit-lengh 
 
   Enable --> Fibonacci basis-point prep (Ragavan-VV)? [Y/n]: Y <── Choose
 
+  ------------------------------
+
   ---> Noise-filter sigma (Ragavan-VV, 0=off) [2.0]: 2.0  
   
   ──> ( Write 2.0 or Press Entre )
