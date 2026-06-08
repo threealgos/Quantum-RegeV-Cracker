@@ -1,4 +1,3 @@
-For Rewards & Donations : 1Bu4CR8Bi5AXQG8pnu1avny88C5CCgWKfb / 1NEJcwfcEm7Aax8oJNjRUnY3hEavCjNrai
 This is Best Fast Config To Crack Small Bit keys:
 ================================
 REGEV + IPE (RECOMMENDED CONFIGs)
@@ -96,7 +95,7 @@ IQM token: cL7Kp6KWbIOXdwMGLOWVRcqMRjdfW44RxXlWzo3o554BnqZ4oBh5Qrq2I0cBRTbD
 IQM device [garnet / sirius / emerald] Write it : emerald
 For IQM it is done Here.
 FOR-IBM────────────────────────────────────────────────────────────
-IBM token: nnH4dAkS6t9MZC6NGKtVGiOjGL6nO_vONBAnOab5pTTo
+IBM token: XXH4dAkS6t9MZC6NGKtVGiOjGL6nO_vONBAnOab5pTTo
 IBM CRN [optional]: [Press Entre]
 Last StepFor IBM [Press Entre] to Pass IBM backend name [ibm_fez]: 
 example: ibm_kingston / ibm_fez 
