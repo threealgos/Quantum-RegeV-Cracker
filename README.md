@@ -122,8 +122,8 @@ Choose --->    Select [backend]: ibm
 13 ) ) -  Number of runs (Regev needs d+4 independent samples) Choose [1]: 1  <──  (  Keep it 1  )
 
 ────────────────────────────────────────────────────────────
-PASTE NOW YOUR ( IBM /IQM ) API TOKENS:
 
+PASTE NOW YOUR ( IBM /IQM ) API TOKENS:
 ────────────────────────────────────────────────────────────
 
 FOR-IQM
