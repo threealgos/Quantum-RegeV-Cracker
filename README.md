@@ -99,14 +99,15 @@ Select [qiskit/pytket]: qiskit
 ──────────────────────────────────────────────────────────____──-----------
 
    Choose backend ---> 
+   
  ! LISTEN HERE !
 
   - if you choosed qiskit --> Next Write[ ibm ] in The Next Backends inputs.
   - if you choosed pytket --> Next Write[ iqm ] in The Next Backends inputs.
 
-  [aer]     Aer simulator 
+  [aer]     Aer simulator   ( You Can Use it But No Need To Use The Aer Simulator it has only 18 qubits
   
-  ( You Can Use it But No Need To Use So instead 
+  So instead 
   
   Choose Real Hardware ( ibm / iqm )  & Press Enter
   
