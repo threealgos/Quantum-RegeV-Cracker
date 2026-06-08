@@ -23,7 +23,7 @@ python3 Quantum-RegeV-1920.py
 02XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ------------------------------------------------------------
-4 ) ) -input Your Target bit length & your exact Bit-lengh For example: 19 
+4 ) ) &-input Your exact Bit-lengh's Target's bit length For example: 19 
 (or 16/ 17/ 18 /19/ 20 / ....135)
 
 5 ) ) - for k_start (hex) [auto]: Just [Press Entre] if you dont know Keyspace
