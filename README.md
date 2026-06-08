@@ -1,3 +1,6 @@
+Use Q-braid Platform & Run All Cells & Switch To Terminal
+Go https://qbraid.com/ Upload The Full_Notebook_Requirements.ipynb
+Than Run All The Cells & Don't Worry About Red Warnings The Notebook will take Some Time When it Finish , Start A Terminal 
 This is Best Fast Config To Crack Small Bit keys:
 ================================
 REGEV + IPE (RECOMMENDED CONFIGs)
