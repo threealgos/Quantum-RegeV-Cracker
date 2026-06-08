@@ -62,6 +62,7 @@ Select [adder] choose ---> : approx (write it & Press Entre)
 10)  ERROR ENCODING  (Regev / Regev+IPE only)
 
 ────────────────────────────────────────────────────────────
+
   [none]       No encoding
   [repetition] [[3,1,1]] bit-flip code
   [surface]    Surface-d3 patch (single round, decorative)
@@ -79,6 +80,7 @@ Select [none] Choose cat Write it & Press Entre  ---> : cat
 11)  SDK
 
 ────────────────────────────────────────────────────────────
+
   [qiskit]  Qiskit (default)
   [pytket]  pytket
 (JUSTWrite The One you want ) & press ENTER
