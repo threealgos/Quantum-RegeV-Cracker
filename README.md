@@ -24,9 +24,9 @@ python3 Quantum-RegeV-1920.py
 4 ) ) -input Your Target bit length & your exact Bit-lengh For example: 19 
 (or 16/ 17/ 18 /19/ 20 / ....135)
 
-5 ) ) - Just Press Enter for |auto]
+5 ) ) - for k_start (hex) [auto]: Just [Press Entre] if you dont know Keyspace
 
-k_start (hex) [auto]:  [Press Entre]
+This it is Just The Keyspace Rang According to Your Exact Bit-lengh That You Have Chosen
 
 ────────────────────────────────────────────────────────────
 
