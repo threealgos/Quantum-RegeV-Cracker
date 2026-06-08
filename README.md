@@ -9,6 +9,7 @@ Go https://qbraid.com/ Upload The Full_Notebook_Requirements.ipynb
 Than Run All The Cells & Don't Worry About Red Warnings The Notebook will take Some Time When it Finish , Start A Terminal 
 Here is All The Steps :
 
+
 1 ) ) - Start program With
 python3 Quantum-RegeV-1920.py
 
@@ -143,13 +144,14 @@ OR You Can Choose Write Your [Backends Name] & Press ENTRE.
 
 ────────────────────────────────────────────────────────────
 
+- Quantum Websites :
+[https://resonance.iqm.tech/](https://resonance.iqm.tech/sign-up)
+https://quantum.cloud.ibm.com/computers
 For Rewards & Donations : 1Bu4CR8Bi5AXQG8pnu1avny88C5CCgWKfb / 1NEJcwfcEm7Aax8oJNjRUnY3hEavCjNrai
 
 https://raw.githubusercontent.com/threealgos/Quantum-RegeV-Cracker/refs/heads/main/infos.png
 <img width="687" height="431" alt="Basic Fast Configs" src="https://raw.githubusercontent.com/threealgos/Quantum-RegeV-Cracker/refs/heads/main/The_Configs_The_Configurations.png" />
 <img width="687" height="431" alt="Basic Fast Configs" src="https://raw.githubusercontent.com/threealgos/Quantum-RegeV-Cracker/refs/heads/main/infos.png" />
-- Quantum Websites :
-[https://resonance.iqm.tech/](https://resonance.iqm.tech/sign-up)
-https://quantum.cloud.ibm.com/computers
+
 For Rewards & Donations : 1Bu4CR8Bi5AXQG8pnu1avny88C5CCgWKfb / 1NEJcwfcEm7Aax8oJNjRUnY3hEavCjNrai
 
