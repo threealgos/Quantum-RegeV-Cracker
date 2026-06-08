@@ -57,6 +57,7 @@ k_start (hex) [auto]:  [Press Entre]
 ────────────────────────────────────────────────────────────
 
 Select [adder] choose ---> : approx
+
 (write approx & Press Entre)
 
   Approx threshold [4] Choose: 4
