@@ -105,10 +105,6 @@ Select [qiskit/pytket]: qiskit
 
    Choose backend ---> 
    
- ! LISTEN HERE !
-
-  - if you choosed qiskit --> Next Write[ ibm ] in The Next Backends inputs.
-  - if you choosed pytket --> Next Write[ iqm ] in The Next Backends inputs.
 
   [aer]     Aer simulator   (  You Can Use it But No Need To Use The Aer Simulator  ) 
   aer it has only 18 qubits
@@ -116,15 +112,20 @@ Select [qiskit/pytket]: qiskit
  So instead 
   Choose Real Hardware  Write ( ibm / iqm )  & Press Enter
 
-  ---
-  
   [ibm]     IBM Quantum
   
   [iqm]     IQM Resonance (pytket-iqm: sirius/garnet/emerald)
+  
+────────────────────────────────────────────────────────────
+   ! LISTEN HERE !
 
-Choose --->    Select [backend]: ibm     
+  - if you choosed qiskit --> Next You Choose[ ibm ] in The Next Backends inputs.
+  - if you choosed pytket --> Next You Choose[ iqm ] in The Next Backends inputs.
 
-/ or   Select [backend]: iqm <── Choose
+
+Select [backend]: ibm  <── Write it   
+
+/ or   Select [backend]: iqm <── Write it
 
 
 13 ) ) -  Number of runs (Regev needs d+4 independent samples) Choose [1]: 1  <──  (  Keep it 1  )
