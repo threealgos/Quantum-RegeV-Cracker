@@ -1,6 +1,14 @@
 
 This is Best Fast Config To Crack Small Bit keys:
 ================================
+
+- Quantum Websites For Sign In Up :
+
+[https://resonance.iqm.tech/](https://resonance.iqm.tech/sign-up)
+
+https://quantum.cloud.ibm.com/computers
+
+
 REGEV + IPE (RECOMMENDED CONFIGs)
 ================================
 Don't Use Google Colab There is Risk you will Get Suspended ! 
@@ -159,12 +167,6 @@ example: ibm_kingston / ibm_fez
 OR You Can Choose Write Your [Backends Name] & Press ENTRE.
 
 ────────────────────────────────────────────────────────────
-
-- Quantum Websites :
-
-[https://resonance.iqm.tech/](https://resonance.iqm.tech/sign-up)
-
-https://quantum.cloud.ibm.com/computers
 
 Hi i-Realy Apperciated you get me Any Donation 
 DM me Here Please -> 1NEJcwfcEm7Aax8oJNjRUnY3hEavCjNrai / 1Bu4CR8Bi5AXQG8pnu1avny88C5CCgWKfb
