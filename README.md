@@ -146,7 +146,7 @@ Select [backend]: ibm  <── Write it
 
 FOR-IQM
 
-IQM token: cL7Kp6KWbIOXdwMGLOWVRcqMRjdfW44RxXlWzo3o554BnqZ4oBh5Qrq2I0cBRTbD
+IQM token: XXcL7Kp6KWbIOXdwMGLOWVRcqMRjdfW44RxXlWzo3o554BnqZ4oBh5Qrq2I0cBRT
 
 IQM device [garnet / sirius / emerald] Write it : emerald
 
@@ -154,7 +154,7 @@ For IQM it is done Here.
 
 ────────────────────────────────────────────────────────────
 
-FOR-IBM
+FOR-IBM  https://cloud.ibm.com/iam/apikeys 
 
 IBM token: XXH4dAkS6t9MZC6NGKtVGiOjGL6nO_vONBAnOab5pTTo
 
@@ -168,7 +168,8 @@ OR You Can Choose Write Your [Backends Name] & Press ENTRE.
 
 ────────────────────────────────────────────────────────────
 
-Hi i-Realy Apperciated you get me Any Donation 
+Hi i-Realy Apperciated you get me Any Donation
+
 DM me Here Please -> 1NEJcwfcEm7Aax8oJNjRUnY3hEavCjNrai / 1Bu4CR8Bi5AXQG8pnu1avny88C5CCgWKfb
 
 
