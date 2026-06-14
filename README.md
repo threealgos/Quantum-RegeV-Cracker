@@ -144,7 +144,7 @@ Select [backend]: ibm  <── Write it
 
 ------------------------------------------------------------
 
-FOR-IQM
+FOR-IQM https://github.com/threealgos/Quantum_KeySpace-Reducer/blob/main/IQM.png
 
 IQM token: XXcL7Kp6KWbIOXdwMGLOWVRcqMRjdfW44RxXlWzo3o554BnqZ4oBh5Qrq2I0cBRT
 
