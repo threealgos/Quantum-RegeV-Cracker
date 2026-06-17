@@ -2994,7 +2994,14 @@ def solve_regev_ecdlp(cfg: P11Config) -> Optional[int]:
     elif cfg.sdk == "pytket":
         qc_tket, d_used = build_regev_pytket(cfg, delta_powers, basis_powers)
         from pytket.extensions.qiskit import tk_to_qiskit
-        qc = tk_to_qiskit(qc_tket)
+        # replace_implicit_swaps=True: pytket optimization passes (FullPeepholeOptimise,
+        # RemoveRedundancies) leave implicit wire-swap permutations in the circuit's
+        # qubit-permutation table rather than inserting explicit SWAP gates.
+        # tk_to_qiskit() now warns (and silently ignores) these by default since
+        # pytket-qiskit ~0.36+. Setting replace_implicit_swaps=True materialises
+        # the permutation as explicit SWAPs at the end of the circuit so the
+        # qubit ordering is physically correct on IQM/IBM hardware submission.
+        qc = tk_to_qiskit(qc_tket, replace_implicit_swaps=True)
 
     elif cfg.sdk == "qrisp":
         z_vars, target, d_used = build_regev_qrisp(cfg, delta_powers, basis_powers)
