@@ -152,7 +152,7 @@ PRESETS = {
     "19":  {"bits":19,  "start":0x40000,
             "pub":"0385663c8b2f90659e1ccab201694f4f8ec24b3749cfe5030c7c3646a709408e19","shots":16384},
     "20":  {"bits":20,  "start":0x80000,
-            "pub":"033c4a45cbd643ff97d77f41ea37e843648d50fd894b864b0d52febc62f6454f7c","shots":16384},
+            "pub":"033c4a45cbd643ff97d77f41ea37e843648d50fd894b864b0d52febc62f6454f7c","shots":32768},
     "135": {"bits":135, "start":0x400000000000000000000000000000000,
             "pub":"02145d2611c823a396ef6712ce0f712f09b9b4f3135e3e0aa3230fb9b6d08d1e16","shots":65536},
 }
