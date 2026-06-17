@@ -183,4 +183,4 @@ License
 ==========
 The Project was a Submission for IQM Researchs Awards Launched by IQM Quantum Computers in Spring of 2026
 
-release under [MIT LICENSE](LICENSE.txt)
+Release under [MIT LICENSE](LICENSE.txt)
