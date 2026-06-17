@@ -182,4 +182,5 @@ For Donations & Rewards : 1Bu4CR8Bi5AXQG8pnu1avny88C5CCgWKfb / 1NEJcwfcEm7Aax8oJ
 License
 ==========
 This Project is a Submission for IQM Researchs Award Launched by IQM Quantum Resonance Platform 
-in the Spring of 2026 Release under [MIT LICENSE](LICENSE.txt)
+in the Spring of 2026 
+release under [MIT LICENSE](LICENSE.txt)
