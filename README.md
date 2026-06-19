@@ -1,7 +1,7 @@
 
 This is Best Fast Config To Crack Small Bit keys:
 ================================
-
+𓏙𓏙𓏙𓏙𓋍𓄿𓋜𓐭𓃀𓂏𓉢𓆠𓆆𓂾𓐮𓋝𓅕𓊾𓊗𓅱𓂻𓃀𓅔𓐮𓋛𓏙𓏙𓏙𓏙 arxiv.org/abs/2606.17647
 - Quantum Websites For Sign In Up :
 
 [https://resonance.iqm.tech/](https://resonance.iqm.tech/sign-up)
